@@ -3,7 +3,6 @@ import plotly.express as px
 import datetime
 import requests
 
-
 df_surface_temp = pd.read_csv('SurfaceTemperature.csv') # load surface temp data csv into df
 
 
